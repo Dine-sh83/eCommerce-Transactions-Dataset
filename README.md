@@ -28,7 +28,6 @@ Technologies
 - Matplotlib and Seaborn
 - Scikit-learn
 
-Confirm the libraries against the notebook imports before finalizing this list.
 
 Getting Started
 
